@@ -4,9 +4,9 @@
 // RecordType
 struct RecordType
 {
-	int		id;
+	int	id;
 	char	name;
-	int		order;
+	int	order;
 };
 // Fill out this structure
 struct HashType
